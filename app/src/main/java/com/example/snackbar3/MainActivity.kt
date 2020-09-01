@@ -8,13 +8,16 @@ import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import android.view.Menu
-import android.view.MenuItem
 import androidx.core.app.NotificationManagerCompat
-
 import com.google.android.material.snackbar.Snackbar.*
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Integer.parseInt
+
+/*  TODO: Clean up the code:
+        - delete unused layouts
+        - move onClick methods and notification builder to own functions
+        - add translations
+ */
 
 class MainActivity : AppCompatActivity() {
 
