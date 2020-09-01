@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Snackbar3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello">Hello World</string>
+    <string name="goodbye">Goodbye Summer</string>
+    <string name="number">2</string>
+    <string name="snackbar_msg">Text changed</string>
+    <string name="undo">UNDO</string>
+    <string name="buttonText">CHANGE TEXT</string>
+
+    <!-- Card resources -->
+    <string name="content_description">Description</string>
+    <string name="title">This is the title</string>
+    <string name="secondary_text">Secondary text</string>
+    <string name="supporting_text">Supporting text</string>
+    <string name="action_1">CHANGE TEXT</string>
+    <string name="action_2">ACTION 2</string>
+
+    <!-- Notification resources -->
+    <string name="channel_name">@string/app_name</string>
+    <string name="channel_id">12341234</string>
+    <string name="channel_description">Snackbar exercise notifications</string>
+    <string name="notification_message">You changed the app text</string>
+    <string name="notification_hello">Hello</string>
+</resources>
